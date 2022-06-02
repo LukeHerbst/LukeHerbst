@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LukeHerbst
 - 👀 I’m interested in Data Science, Machine Learning.
-- 🌱 I’m currently learning Data analytics and Machine Learning at Coderschool Vietnam
-- 💞️ I’m looking to collaborate on nothing yet.. let me finish this bootcamp first
+- 🚀 I'm on a mission to do more open-source work
 - 📫 How to reach me lukeherbst2@gmail.com
 
 <!---
